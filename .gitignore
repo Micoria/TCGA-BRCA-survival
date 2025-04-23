@@ -1,0 +1,12 @@
+# ignore large files and temporary data
+*.tsv.gz
+*.pkl
+*.pt
+data/tmp/
+__pycache__/
+
+*.tsv.gz
+*.pkl
+*.pt
+data/tmp/
+__pycache__/
